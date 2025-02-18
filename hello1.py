@@ -1,1 +1,1 @@
-print("Hello Khurrams")
+echo "print('Hello, World!')" >> hello.py
